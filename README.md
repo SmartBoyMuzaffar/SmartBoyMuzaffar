@@ -8,7 +8,7 @@ My Web Site! 👇👇👇👇👇 <br>
 <a href="https://smartboymuzaffar.github.io/">smartboy</a> 
 
 <br>
-<img src="evilboy.jpg"></img>
+<img src="evilboy-m.png"></img>
 <br>
 
 
