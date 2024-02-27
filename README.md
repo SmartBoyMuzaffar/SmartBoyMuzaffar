@@ -43,7 +43,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smart-boy-929367220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smartboy" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100082059459036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/SmartBoyMuzaffar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SmartBoyMuzaffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/SmartBoyMuzaffar" height="30" width="40" /></a>
 <a href="https://instagram.com/smartboymuzaffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smartboymuzaffar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/smartboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smartboy" height="30" width="40" /></a>
 </p>
