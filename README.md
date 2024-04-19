@@ -7,8 +7,7 @@
   <a href="https://t.me/MuzaffarSmartBoy"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 <p align="center">
-  
-<!-- <p align="center">
+
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 </p> -->
 
@@ -20,16 +19,16 @@
         width="49%"
         src="https://github-readme-streak-stats.herokuapp.com?user=SmartBoyMuzaffar&theme=tokyonight"
     />
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartboymuzaffar&label=Profile%20views&color=0e75b6&style=flat" alt="smartboymuzaffar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartboymuzaffar" alt="smartboymuzaffar" /></a> </p>
 
-<center>
-  <h1> ### Smart Boy</h1>
-</center>
 
+### Smart Boy
+
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smart-boy-929367220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smartboy" height="30" width="40" /></a>
