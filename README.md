@@ -5,6 +5,8 @@
 
 <p align="center">
   <a href="https://t.me/MuzaffarSmartBoy"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+</p>
+<p align="center">
 <br><br><br>
 <h1> Smart Boy </h1>
 <br><br><br>
