@@ -10,7 +10,7 @@
 <!--
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
   -->
-# Smart Boy
+  
 <img
         width="49%"
         src="https://github-readme-stats.vercel.app/api?username=SmartBoyMuzaffar&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
