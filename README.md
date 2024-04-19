@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <br><br><br>
-<h1> Smart Boy </h1>
+
 <br><br><br>
 </p>
 <p align="center">
