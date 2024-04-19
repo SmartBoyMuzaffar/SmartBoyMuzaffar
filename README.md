@@ -26,19 +26,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartboymuzaffar" alt="smartboymuzaffar" /></a> </p>
 
-- 🔭 I’m currently working on **Python Development**
 
-- 👯 I’m looking to collaborate on **Python**
-
-- 🤝 I’m looking for help with **Python**
-
-- 👨‍💻 All of my projects are available at [smartboymuzaffar.github.io](smartboymuzaffar.github.io)
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **smartboymuzaffar@gmail.com**
-
-- ⚡ Fun fact **Python Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
