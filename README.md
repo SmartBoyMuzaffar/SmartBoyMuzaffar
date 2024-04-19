@@ -10,7 +10,7 @@
 <!--
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
   -->
-
+# Smart Boy
 <img
         width="49%"
         src="https://github-readme-stats.vercel.app/api?username=SmartBoyMuzaffar&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
@@ -24,9 +24,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartboymuzaffar&label=Profile%20views&color=0e75b6&style=flat" alt="smartboymuzaffar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartboymuzaffar" alt="smartboymuzaffar" /></a> </p>
-
-
-### Smart Boy
 
 </p>
 <h3 align="left">Connect with me:</h3>
