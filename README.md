@@ -7,9 +7,9 @@
   <a href="https://t.me/MuzaffarSmartBoy"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 <p align="center">
-
+<!--
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-</p> -->
+  -->
 
 <img
         width="49%"
