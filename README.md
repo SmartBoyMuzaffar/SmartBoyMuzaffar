@@ -1,6 +1,6 @@
 <!-- <[SmartBoyMuzaffar]> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Smart Boy !</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muzaffar !</h1>
 <h3 align="center">A Python Developer from Uzbekistan</h3>
 
 <p align="center">
